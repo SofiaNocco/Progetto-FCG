@@ -1,6 +1,6 @@
 #README 
 
-I file 1.0 e 2.0 della parte di modellazione non sono caricati nell'attuale repository data la dimensione eccessiva dei file. Per visualizzarli, scaricarli da questo link: https://drive.google.com/drive/folders/12dpvZ17arAb0HgMHNvFu2B59ZSDGNnxm?usp=sharing 
+Sistemati i file 1.0 e 2.0 della modellazione (spiegazione nella presentazione).
 
 La cartella della modellazione non l'ho ancora sistemata e contiene gli stessi file che le avevo precedentemente inviato.
 
