@@ -1,6 +1,6 @@
 #README 
 
-IMPORTANTE: Per la cartella Texture é necessario scaricarla interamente, altrimenti, essendo i percorsi del file di texture relativi non verrebbero "attaccate" correttamente ai file .blend.
+IMPORTANTE: Per la cartella Texture é necessario scaricarla interamente, altrimenti, essendo i percorsi del file di texture relativi, non verrebbe "attaccata" correttamente ai file .blend.
 
 Sistemati i file 1.0 e 2.0 della modellazione (spiegazione nella presentazione).
 
